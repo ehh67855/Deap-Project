@@ -1,0 +1,8 @@
+# config.py
+POPULATION_SIZE = 100
+GENOME_LENGTH = 100
+MUTATION_PROB = 0.05
+CROSSOVER_PROB = 0.7
+N_GENERATIONS = 1000
+TOURNAMENT_SIZE = 3
+BOUNDS = [-6, 6]  # Example bounds for the variables
